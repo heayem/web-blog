@@ -167,6 +167,7 @@ body {
         height: 50vh;
         padding: 20px;
         margin: auto;
+        overflow: scroll;
     }
 
 }
