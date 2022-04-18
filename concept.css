@@ -162,5 +162,11 @@ body {
     .btn-respon {
         display: block;
     }
+    .text-box {
+        width: 80%;
+        height: 50vh;
+        padding: 20px;
+        margin: auto;
+    }
 
 }
